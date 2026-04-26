@@ -1,7 +1,7 @@
 # Fire Detection PCB 
 
 ## Project Overview
-This project is a hardware-based Fire Detection System designed for real-time monitoring and safety alerts. The system utilizes an analog comparator architecture to detect thermal changes and trigger a dual-stage (audio-visual) alarm.
+This project is a hardware-based Fire Detection System designed for real-time monitoring and safety alerts. The system utilizes an analog comparator architecture to detect thermal changes and trigger a dual-stage alarm.
 
 ## Technical Specifications
 - **Control Logic:** LM358 Operational Amplifier (Differential Comparator Mode)
